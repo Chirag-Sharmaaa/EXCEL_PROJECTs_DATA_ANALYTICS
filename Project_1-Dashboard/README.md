@@ -76,11 +76,13 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+![back table 1](https://github.com/user-attachments/assets/274675eb-387a-4975-8c19-e39fbcc514be)
+
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+![Screenshot 2025-02-23 184107](https://github.com/user-attachments/assets/7012dcdb-cb04-4655-b66d-741a239a040a)
+
 
 #### ⏰ Count of Job Schedule Type
 
@@ -93,11 +95,13 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![back table 2](https://github.com/user-attachments/assets/d756c2ec-a81d-4af0-af03-3383c1fff55d)
+
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+![Screenshot 2025-02-23 184247](https://github.com/user-attachments/assets/c4fb012c-dcea-4382-8102-d2edff97db47)
+
 
 ### ❎ Data Validation
 
