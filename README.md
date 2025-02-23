@@ -1,2 +1,4 @@
-# EXCEL_PROJECTs_DATA_ANALYTICS
- This is to showcase my Excel skills !
+# My Excel Data Analytics Projects  
+
+## PROJECT 1  
+![FINAL DASHBOARD PHOTO](
